@@ -17,42 +17,56 @@
 ### 🔹 [Chatbot for College Enquiry](#)
 - A simple terminal-based chatbot for answering common questions about college.
 - Covers queries on admissions, courses, fees, and hostel facilities.
-- Built using Python logic, easy to scale with NLP in future.
+- Built using Python logic and structured responses.
+- Can be enhanced with NLP or integrated into a web portal.
 
 ### 🔹 [Expense Tracker](https://github.com/Gani2324/Expence_Tracker)
-- A command-line based tool to record daily expenses with categories and timestamps.
-- Helps users manage and analyze spending habits.
-- Data stored in CSV format; simple yet practical tool.
+- Command-line Python tool to log daily expenses with categories.
+- Tracks and summarizes income vs. expenditure.
+- Simple CSV-based storage system for budget management.
+- Great for students or freelancers tracking personal finances.
 
 ### 🔹 [Fake News Detector](https://github.com/Gani2324/Fake_News_Detector)
-- Machine learning model to detect fake news articles based on textual input.
-- Uses TF-IDF vectorization and passive aggressive classifier.
-- Useful for flagging misinformation in digital platforms.
+- Detects whether a news article is fake or real using machine learning.
+- Uses TF-IDF for feature extraction and Passive Aggressive Classifier.
+- Trained on labeled news datasets.
+- Helps combat misinformation in social media and digital platforms.
 
 ### 🔹 [Movie Recommender System](https://github.com/Gani2324/Movie_Recommender)
-- A content-based recommendation engine using cosine similarity.
-- Recommends similar movies based on user input or preferences.
-- Works offline using a CSV dataset of movies.
+- Content-based recommendation engine built with Python.
+- Recommends movies based on cosine similarity of metadata.
+- Simple CLI interface using a local CSV file.
+- Lightweight and functional for offline use.
 
 ### 🔹 [QR Code Scanner](https://github.com/Gani2324/QR_Code_Scanner)
-- A simple GUI-based tool to scan and decode QR codes using webcam.
-- Displays content of scanned QR codes instantly.
-- Built using OpenCV and Python’s `pyzbar`.
+- A Python GUI tool to scan QR codes via webcam.
+- Uses OpenCV and Pyzbar for real-time detection.
+- Displays decoded info instantly on-screen.
+- Practical tool for quick QR-based access and data sharing.
 
 ### 🔹 [Smart Attendance System](https://github.com/Gani2324/Smart_Attendance_System)
-- Face recognition-based attendance logging system.
-- Detects and recognizes registered faces via webcam in real-time.
-- Stores attendance logs in CSV format with timestamps.
+- Face recognition-based attendance system using webcam.
+- Logs recognized students' names with timestamps.
+- Uses OpenCV for face detection and recognition.
+- Stores data securely in CSV format.
 
 ### 🔹 [Student Performance Predictor](https://github.com/Gani2324/Student_Performance_Predictor)
-- Predicts student grades using machine learning regression techniques.
-- Input features include study time, failures, and absences.
-- Useful for early academic risk detection and planning.
+- ML model to predict student grades based on various academic factors.
+- Input features include study time, failures, absences, etc.
+- Uses regression algorithms for prediction.
+- Helps in identifying at-risk students for early intervention.
 
 ### 🔹 [Voice Controlled Home Automation](https://github.com/Gani2324/Voice_Controlled_Home_Automation)
-- Converts voice commands into simulated home control actions.
-- Uses speech recognition and text-to-speech libraries.
-- Future-ready for integration with smart appliances and IoT.
+- Voice command system that simulates smart home control.
+- Uses SpeechRecognition and pyttsx3 for voice processing.
+- Executes basic commands and gives vocal feedback.
+- Can be extended to control real IoT-enabled devices.
+
+### 🔹 [Personal Finance Dashboard](https://github.com/Gani2324/Personal_Finanace_Dashboard)
+- A stylish frontend web dashboard to visualize and track personal finances.
+- Built using HTML, CSS, and JavaScript for a fully responsive UI.
+- Displays income, expenses, savings, and goal progress in a clean layout.
+- Can be extended with backend integrations for data persistence.
 
 ---
 
