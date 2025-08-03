@@ -14,37 +14,20 @@
 
 ## 💼 Projects I’ve Built
 
-### 🔹 **Emotion-Aware Autonomous Driving System**
-- Integrated **EEG and Eye Tracking** to analyze driver cognitive and emotional state.
-- Employed machine learning for emotion classification.
-- Goal: Enhance safety by adapting vehicle behavior to driver's emotional condition.
-
-### 🔹 **Flood Forecasting Using Machine Learning**
-- Built using SVM, KNN, Decision Tree, and Random Forest.
-- Trained on historical rainfall and river data.
-- Aim: Early flood warning system to reduce disaster impact.
-
-### 🔹 **API Rate Limiting System in Rust**
-- Developed a rate limiter in Rust for high-performance APIs.
-- Used token bucket algorithm for efficiency and fairness.
-
-### 🔹 **Real-Time Vehicle Detection & Traffic Flow Classification**
-- Used YOLOv8 with a custom vehicle dataset.
-- Real-time object detection from live video feeds.
-- Smart city-ready solution for traffic optimization.
-
-### 🔹 **Intelligent Garbage Segregation System**
-- Image classification-based system using CNNs.
-- Automated waste segregation into organic, recyclable, and landfill.
+### 🔹 **Chatbot for College Enquiry**
+- A simple terminal-based chatbot to answer frequently asked questions about college.
+- Handles queries related to **admissions**, **courses**, **fees**, and **hostel facilities**.
+- Built using basic Python logic without external libraries.
+- Easily extendable to more queries or upgraded to an NLP-based system.
 
 ---
 
 ## 📚 Technologies I Work With
 
-- **Languages**: Python, JavaScript, C++, Rust, Java
-- **Frameworks**: Flask, React, Node.js, OpenCV
-- **ML Tools**: TensorFlow, Scikit-learn, Pandas
-- **Others**: Git, Docker, Linux, MySQL, Firebase
+- **Languages**: Python, JavaScript, C++, Rust, Java  
+- **Frameworks**: Flask, React, Node.js, OpenCV  
+- **ML Tools**: TensorFlow, Scikit-learn, Pandas  
+- **Others**: Git, Docker, Linux, MySQL, Firebase  
 
 ---
 
