@@ -14,11 +14,45 @@
 
 ## 💼 Projects I’ve Built
 
-### 🔹 **Chatbot for College Enquiry**
-- A simple terminal-based chatbot to answer frequently asked questions about college.
-- Handles queries related to **admissions**, **courses**, **fees**, and **hostel facilities**.
-- Built using basic Python logic without external libraries.
-- Easily extendable to more queries or upgraded to an NLP-based system.
+### 🔹 [Chatbot for College Enquiry](#)
+- A simple terminal-based chatbot for answering common questions about college.
+- Covers queries on admissions, courses, fees, and hostel facilities.
+- Built using Python logic, easy to scale with NLP in future.
+
+### 🔹 [Expense Tracker](https://github.com/Gani2324/Expence_Tracker)
+- A command-line based tool to record daily expenses with categories and timestamps.
+- Helps users manage and analyze spending habits.
+- Data stored in CSV format; simple yet practical tool.
+
+### 🔹 [Fake News Detector](https://github.com/Gani2324/Fake_News_Detector)
+- Machine learning model to detect fake news articles based on textual input.
+- Uses TF-IDF vectorization and passive aggressive classifier.
+- Useful for flagging misinformation in digital platforms.
+
+### 🔹 [Movie Recommender System](https://github.com/Gani2324/Movie_Recommender)
+- A content-based recommendation engine using cosine similarity.
+- Recommends similar movies based on user input or preferences.
+- Works offline using a CSV dataset of movies.
+
+### 🔹 [QR Code Scanner](https://github.com/Gani2324/QR_Code_Scanner)
+- A simple GUI-based tool to scan and decode QR codes using webcam.
+- Displays content of scanned QR codes instantly.
+- Built using OpenCV and Python’s `pyzbar`.
+
+### 🔹 [Smart Attendance System](https://github.com/Gani2324/Smart_Attendance_System)
+- Face recognition-based attendance logging system.
+- Detects and recognizes registered faces via webcam in real-time.
+- Stores attendance logs in CSV format with timestamps.
+
+### 🔹 [Student Performance Predictor](https://github.com/Gani2324/Student_Performance_Predictor)
+- Predicts student grades using machine learning regression techniques.
+- Input features include study time, failures, and absences.
+- Useful for early academic risk detection and planning.
+
+### 🔹 [Voice Controlled Home Automation](https://github.com/Gani2324/Voice_Controlled_Home_Automation)
+- Converts voice commands into simulated home control actions.
+- Uses speech recognition and text-to-speech libraries.
+- Future-ready for integration with smart appliances and IoT.
 
 ---
 
