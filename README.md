@@ -81,7 +81,7 @@
 
 ## 📎 Resume
 
-📄 [View My Resume](https://drive.google.com/file/d/1Hl5AoR5Rhk8AIcT6gGJMNpR-HF1DIIKb/view?usp=sharing)
+📄 [View My Resume](https://drive.google.com/file/d/1o8RvdWbGSiAA-bri7289kTwMIxLJgefY/view?usp=drive_link)
 
 ---
 
