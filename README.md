@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ganesh Gambhiraopet
+# 👋 Hi, I'm Gambhiraopet Ganesh
 
 🚀 I'm a passionate Computer Science student and aspiring developer with a strong focus on building impactful, intelligent, and innovative digital solutions.
 
