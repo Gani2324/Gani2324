@@ -68,7 +68,18 @@
 - Displays income, expenses, savings, and goal progress in a clean layout.
 - Can be extended with backend integrations for data persistence.
 
----
+### 🔹 [E-Commerce Database (Advanced SQL Project)](https://github.com/Gani2324/E_Commerce_Database_)
+- Pure **SQL-based e-commerce platform** built on MySQL 8+.  
+- Implements **normalized schema**, **triggers**, **stored procedures**, **functions**, and **analytics views**.  
+- Includes `sp_place_order_json` for safe JSON-based order placement.  
+- Provides **sample reports** like sales trends, customer lifetime value, and top products.  
+
+### 🔹 [Inventory Management System (C++ + SQL)](https://github.com/Gani2324/Inventory_Management_System_based_on_Cpp)
+- A **hybrid project** combining C++ (frontend logic) and SQL (backend database).  
+- Features **add/update/delete products**, **stock tracking**, and **bill generation**.  
+- SQL handles **products, suppliers, and sales records** with **aggregates, constraints, and triggers**.  
+- Demonstrates integration of **OOP in C++** with **relational databases** for real-time operations.  
+
 
 ## 📚 Technologies I Work With
 
